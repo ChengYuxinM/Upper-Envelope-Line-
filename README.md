@@ -1,5 +1,5 @@
 # Upper-Envelope-Line
-The question 2 in homework of Advanced Algorithm(CSIT 5500, 2021, HKUST)
+The question 2 in homework 1 of Advanced Algorithm(CSIT 5500, 2021, HKUST)
 
 
 不能保证程序正确性，如您测试中有边界错误，那大概率是出在merge函数中了，烦请您改好了告诉我
