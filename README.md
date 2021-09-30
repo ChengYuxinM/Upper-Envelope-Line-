@@ -9,3 +9,7 @@ The correctness of the program cannot be guaranteed. If there is a boundary erro
 第一次用python写程序，语句冗杂繁琐，请见谅
 
 For the first time to write a program in python, the sentences are messy and cumbersome, please forgive me
+
+希望下一届不要遭这罪了
+
+Amen
